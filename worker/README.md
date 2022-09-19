@@ -11,4 +11,7 @@
   
   
   
+  http://34.118.119.157:8080/buildStatus/text?job=instatove%2Fworker-build
+  
+  
   
